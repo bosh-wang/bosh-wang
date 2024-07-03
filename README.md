@@ -1,7 +1,8 @@
 ### Hi there, I am Bosh from Taiwan. 👋
-- I'm currently studying at National Central University
+- I'm currently studying at National Yang Ming Chiao Tung University
 - I have learned languages including C, Java, JavaScript, Python, etc...
 - I'm looking forward to working at Silicon Valley !!
+- I dream of being a pilot !
 
 
 ##### There are some repositories I created
